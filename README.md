@@ -45,8 +45,6 @@ Estudiante de 8.º ciclo de Ingeniería de Sistemas e Informática en la UNAMAD 
 
 <img src="https://streak-stats.demolab.com?user=JeffersonAreque&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonAreque&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0f172a&height=100&section=footer" width="100%"/>
