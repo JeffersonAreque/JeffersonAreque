@@ -40,7 +40,7 @@ Estudiante de 8.º ciclo de Ingeniería de Sistemas e Informática en la UNAMAD 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeffersonAreque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeffersonAreque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide=stars,issues,contribs&custom_title=Estad%C3%ADsticas%20de%20GitHub" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAreque&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=JeffersonAreque&theme=tokyonight&hide_border=true" height="165"/>
